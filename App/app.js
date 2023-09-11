@@ -1,6 +1,6 @@
 ﻿
-let clientId = "b7eae9fa-0ad0-4a68-80d4-655c7beba1dd";
-let tenant = "7c5728dc-5bbb-472e-af74-1b0bf86bf2c5";
+let clientId = "5bb1e3d4-525f-4cc7-90b2-9ed616168be7";
+let tenant = "781cb469-cf08-400c-a2db-fe896b837700";
 let authority = "https://login.microsoftonline.com/" + tenant;
 
 const msalConfig = {
